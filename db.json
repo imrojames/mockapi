@@ -2,17 +2,8 @@
   "users": [
       {
           "id": 1,
-          "username": "Roj",
-          "firstName": "Rojames",
-          "lastName": "Binoya",
-          "age": 26 
-      },
-      {
-          "id": 2,
-          "username": "Len",
-          "firstName": "Lenny Rose",
-          "lastName": "Binoya",
-          "age": 25 
+          "title": "Roj",
+          "completed": false
       }
   ]
 }
