@@ -5,5 +5,22 @@
           "title": "Roj",
           "completed": false
       }
+  ],
+   "products": [
+    {
+      "id": "fd81",
+      "name": "Pancit Cantoon",
+      "price": 15
+    },
+    {
+      "id": "81d4",
+      "name": "Swack",
+      "price": 16
+    },
+    {
+      "id": "c9a9",
+      "name": "d",
+      "price": 2
+    }
   ]
 }
